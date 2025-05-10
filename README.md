@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ##### My stat Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&theme=gruvbox)
+![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&theme=gruvbox)
