@@ -32,3 +32,11 @@ Here are some ideas to get you started:
 ##### My stat Github
 
 ![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&theme=gruvbox)
+
+##### play game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph.svg">
+</picture>
