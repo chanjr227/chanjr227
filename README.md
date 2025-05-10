@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Chandra 👋
+
+![Chandra](img/1319724.png)
 
 <!--
 **chanjr227/chanjr227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework 🛏️
+
+- ⚡ Fun fact: Saya suka progaming tetapi saya kuliah di jurusan Jaringan komputer 💻
