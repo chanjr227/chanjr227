@@ -1,4 +1,4 @@
-## Hi I'm Chandra 👋
+## Hello World 👋
 
 ![Chandra](img/github-header-image.png)
 
