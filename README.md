@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework 🛏️
 
-- ⚡ Fun fact: Saya suka progaming tetapi saya kuliah di jurusan Jaringan komputer 💻
+- ⚡ Fun fact: Saya suka coding tetapi saya kuliah di jurusan Jaringan komputer 💻
 
 ##### Skills
 
