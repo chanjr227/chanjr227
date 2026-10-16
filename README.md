@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chanjr227&style=for-the-badge&color=7E22CE&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=chandra&style=for-the-badge&color=7E22CE&label=VISITORS"/>
 
 <a href="https://github.com/chanjr227">
 <img src="https://img.shields.io/github/followers/chanjr227?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2&labelColor=09090F" alt="Followers"/>
