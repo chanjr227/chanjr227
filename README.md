@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ![https://instgram.com/chanjr227](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanjr227&layout=compact&theme=gruvbox)
+
 ##### My stat Github
 
 
