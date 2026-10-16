@@ -1,136 +1,111 @@
 
 <div align="center">
 
-<img src="img/github-header-image.png" width="100%" alt="Chandra GitHub Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:7C3AED&height=220&section=header&text=CHANDRA&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
 
-# Hi there, I'm Chandra! 👋
+<br/>
 
-### 💻 Web Developer | 🌐 Networking | 🤖 IoT Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Chandra+%F0%9F%91%8B;Passionate+About+Technology;Web+Development+%26+Computer+Networking;Learning+Something+New+Every+Day" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Passionate+About+Web+Development;Exploring+IoT+and+Artificial+Intelligence;Always+Learning+New+Technologies" alt="Typing Animation"/>
+<br/><br/>
 
-<br>
+<a href="https://github.com/chanjr227">
+<img src="https://img.shields.io/github/followers/chanjr227?label=Followers&style=for-the-badge&color=6366F1&labelColor=0F172A&logo=github" alt="Followers"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=chanjr227&label=Profile+Views&color=orange&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=chanjr227&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"/> About Me
 
 ```javascript
 const chandra = {
+  role: "Developer & Tech Enthusiast",
+  education: "Computer Networking",
+  currentlyLearning: ["Laravel", "IoT", "AI"],
   interests: [
     "Web Development",
-    "Internet of Things",
+    "Computer Networking",
     "Artificial Intelligence",
-    "Computer Networking"
+    "Internet of Things"
   ],
-  currentlyLearning: [
-    "Laravel",
-    "ESP32",
-    "AI & Computer Vision"
-  ],
-  motto: "Keep learning, keep building!"
+  philosophy: "Learn. Build. Improve. Repeat."
 };
 ```
 
-- 🎓 Studying Computer Networking
-- 🌱 Currently learning **Laravel & IoT**
-- 🔭 Building web applications and ESP32 projects
-- 🤖 Interested in AI and Smart Technology
-- ⚡ Fun fact: Suka coding meskipun kuliah di jurusan Jaringan Komputer!
+> 💡 *"Turning curiosity into code, one commit at a time."*
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 🌐 Web Development
+**Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql&theme=dark" alt="Web Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cpp,dart&theme=dark&perline=8" alt="Languages"/>
 
-### 🤖 Programming & IoT
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,arduino,flutter,dart&theme=dark" alt="Programming Skills"/>
+**Tools & Technologies**
 
-### ⚙️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,postman&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,mysql,arduino,flutter&theme=dark&perline=8" alt="Tools"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🕶️ Smart Glasses | Smart glasses for obstacle detection and navigation assistance | ESP32-CAM, ToF, AI |
-| 🌱 Smart Farming | IoT-based automated watering and monitoring system | ESP32, MQTT |
-| 🛍️ UMKM Finder | Web platform for discovering local businesses | Laravel, MySQL |
-| 🧵 Sistem Jahit | Tailoring management and transaction system | PHP, MySQL |
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&theme=gruvbox&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&theme=transparent&title_color=A78BFA&text_color=CBD5E1&icon_color=818CF8&border_color=312E81&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjr227&layout=compact&theme=gruvbox" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjr227&layout=compact&theme=transparent&title_color=A78BFA&text_color=CBD5E1&border_color=312E81" alt="Top Languages"/>
 
-</div>
+<br/><br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chanjr227&theme=github-dark&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chanjr227&bg_color=0D1117&color=A78BFA&line=818CF8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity"/>
 
 </div>
 
----
+<br/>
 
-## 🕹️ Pac-Man Contribution Graph
+## 🕹️ Contribution Game
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph.svg"/>
 </picture>
 
 </div>
 
----
+<br/>
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://instagram.com/chanjr227">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
 </a>
 
 <a href="https://github.com/chanjr227">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### ✨ "Code. Learn. Build. Repeat."
-
-⭐ Thanks for visiting my GitHub profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4338CA,100:0F172A&height=120&section=footer"/>
 
 </div>
