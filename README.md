@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 ##### My stat Github
 
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&theme=gruvbox)
+
+![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&rank_icon=github)
+  
 
 ##### play game
 
