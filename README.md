@@ -1,104 +1,111 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=CHANDRA&fontSize=65&color=0:050510,50:581C87,100:06B6D4&stroke=22D3EE&fontColor=FFFFFF&animation=fadeIn&desc=SYSTEM%20ONLINE%20%7C%20DEVELOPER%20MODE&descSize=15&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:7C3AED&height=220&section=header&text=CHANDRA&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+HELLO%2C+I'M+CHANDRA;%3E+WEB+DEVELOPER+%7C+TECH+ENTHUSIAST;%3E+EXPLORING+THE+FUTURE+WITH+CODE;%3E+SYSTEM+READY_"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Chandra+%F0%9F%91%8B;Passionate+About+Technology;Web+Development+%26+Computer+Networking;Learning+Something+New+Every+Day" alt="Typing SVG"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=chandra&style=for-the-badge&color=7E22CE&label=VISITORS"/>
+<br/><br/>
 
 <a href="https://github.com/chanjr227">
-<img src="https://img.shields.io/github/followers/chanjr227?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2&labelColor=09090F" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/chanjr227?label=Followers&style=for-the-badge&color=6366F1&labelColor=0F172A&logo=github" alt="Followers"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=chanjr227&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
----
+<br/>
 
-## `01 // ABOUT ME`
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"/> About Me
 
-```text
-╔══════════════════════════════════╗
-║  USER      : CHANDRA             ║
-║  ROLE      : DEVELOPER           ║
-║  FIELD     : COMPUTER NETWORKING ║
-║  STATUS    : ALWAYS LEARNING     ║
-╚══════════════════════════════════╝
+```javascript
+const chandra = {
+  role: "Developer & Tech Enthusiast",
+  education: "Computer Networking",
+  currentlyLearning: ["Laravel", "IoT", "AI"],
+  interests: [
+    "Web Development",
+    "Computer Networking",
+    "Artificial Intelligence",
+    "Internet of Things"
+  ],
+  philosophy: "Learn. Build. Improve. Repeat."
+};
 ```
 
-- `>` 💻 Exploring **Web Development**
-- `>` 🌐 Learning **Laravel & Computer Networking**
-- `>` 🤖 Interested in **IoT and Artificial Intelligence**
-- `>` ⚡ Building ideas through code
-- `>` 🎯 Mission: Learn, create, and improve every day.
+> 💡 *"Turning curiosity into code, one commit at a time."*
 
-> *"In a world full of systems, I choose to build my own future."*
+<br/>
 
----
-
-## `02 // TECH ARSENAL`
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cpp,dart&theme=dark&perline=8" alt="Languages and frameworks"/>
+**Languages & Frameworks**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cpp,dart&theme=dark&perline=8" alt="Languages"/>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,mysql,arduino,flutter&theme=dark&perline=8" alt="Tools and platforms"/>
+<br/>
+
+**Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,mysql,arduino,flutter&theme=dark&perline=8" alt="Tools"/>
 
 </div>
 
----
+<br/>
 
-## `03 // GITHUB SYSTEM STATUS`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&hide_border=true&bg_color=09090F&title_color=22D3EE&text_color=D4D4D8&icon_color=E879F9&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chanjr227&show_icons=true&theme=transparent&title_color=A78BFA&text_color=CBD5E1&icon_color=818CF8&border_color=312E81&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjr227&layout=compact&hide_border=true&bg_color=09090F&title_color=E879F9&text_color=D4D4D8" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanjr227&layout=compact&theme=transparent&title_color=A78BFA&text_color=CBD5E1&border_color=312E81" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=chanjr227&bg_color=09090F&color=22D3EE&line=E879F9&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chanjr227&bg_color=0D1117&color=A78BFA&line=818CF8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity"/>
 
 </div>
 
----
+<br/>
 
-## `04 // NEURAL NETWORK : CONTRIBUTIONS`
+## 🕹️ Contribution Game
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph.svg"/>
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph-dark.svg" width="100%"/>
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/chanjr227/chanjr227/output/pacman-contribution-graph.svg"/>
 </picture>
 
 </div>
 
----
+<br/>
 
-## `05 // ESTABLISH CONNECTION`
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/chanjr227">
-<img src="https://img.shields.io/badge/GITHUB-09090F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
-</a>
 <a href="https://instagram.com/chanjr227">
-<img src="https://img.shields.io/badge/INSTAGRAM-09090F?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/chanjr227">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:581C87,100:050510"/>
+</div>
 
-<sub><code>END OF TRANSMISSION // KEEP BUILDING THE FUTURE_</code></sub>
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4338CA,100:0F172A&height=120&section=footer"/>
 
 </div>
