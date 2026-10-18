@@ -102,7 +102,47 @@ const chandra = new Developer();
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chanjr227&bg_color=0D1117&color=A78BFA&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity"/>
+
+<br/>
+
+### 💻 DEVELOPER.TERMINAL
+
+```bash
+┌──(chandra㉿github)-[~/developer]
+│
+├── $ whoami
+│   └── Developer & Tech Enthusiast
+│
+├── $ cat interests.txt
+│   ├── Web Development
+│   ├── Computer Networking
+│   ├── Artificial Intelligence
+│   └── Internet of Things
+│
+├── $ ls currently-learning/
+│   ├── Laravel
+│   ├── Flutter
+│   ├── AI
+│   └── IoT
+│
+├── $ echo $MISSION
+│   └── Learn. Build. Innovate. Repeat.
+│
+└── $ ./keep-coding.sh
+    └── [SUCCESS] Never Stop Learning!
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-06B6D4?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/DEVELOPER-MODE_ACTIVE-A78BFA?style=for-the-badge&labelColor=020617"/>
+
+<br/><br/>
+
+**`> INITIALIZING NEXT LEVEL...`**
+
+</div>
+
 
 </div>
 
