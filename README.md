@@ -207,13 +207,14 @@ It's about solving problems, exploring possibilities, and creating meaningful ex
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chanjr227/chanjr227/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chanjr227&bg_color=020617&color=62D9FF&line=6D28D9&point=06B6D4&area=true&hide_border=true&custom_title=Chandra's%20Contribution%20Graph"/>
 
 </div>
+
 
 ---
 
